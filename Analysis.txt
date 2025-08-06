@@ -9,3 +9,7 @@
 4. Customizable Appearance
    - Light and dark mode toggle
    - User can change font and color of the clock display
+5. Alarm Functionality
+   - Set multiple alarms with labels
+   - Play sound notification when alarm triggers
+   - Include snooze option (5–10 minutes)
