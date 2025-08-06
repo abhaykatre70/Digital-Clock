@@ -19,3 +19,5 @@
    - Notify user when timer ends
 7. Responsive Design
    - Clock layout adjusts for mobile, tablet, and desktop screens
+8. Real-Time Update
+   - Clock updates every second automatically without page refresh
