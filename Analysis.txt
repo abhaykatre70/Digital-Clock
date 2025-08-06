@@ -17,3 +17,5 @@
    - Start, stop, and reset stopwatch
    - Countdown timer with time input
    - Notify user when timer ends
+7. Responsive Design
+   - Clock layout adjusts for mobile, tablet, and desktop screens
