@@ -4,3 +4,5 @@
    - Show AM/PM in 12-hour mode
 2. Display Current Date
    - Format: DD-MM-YYYY or MM/DD/YYYY (user-selectable)
+3. Support Multiple Time Zones
+   - User can select and view time in different zones
