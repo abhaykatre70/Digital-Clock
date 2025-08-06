@@ -27,3 +27,10 @@
    - Compatibility: Works on all major browsers
    - Accessibility: High contrast mode for visibility
    - Security: Store settings locally (no external server storage)
+10. Optional/Advanced Features
+    - Voice assistant integration for alarm setting
+    - Weather display using location
+    - Sync time from NTP server
+    - Fullscreen clock mode
+    - Export/import alarm settings
+    - Widget support for desktop/mobile
