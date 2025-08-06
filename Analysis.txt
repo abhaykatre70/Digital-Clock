@@ -21,3 +21,9 @@
    - Clock layout adjusts for mobile, tablet, and desktop screens
 8. Real-Time Update
    - Clock updates every second automatically without page refresh
+9. Non-Functional Requirements
+   - Performance: Clock must update without delay
+   - Usability: Clean and intuitive interface
+   - Compatibility: Works on all major browsers
+   - Accessibility: High contrast mode for visibility
+   - Security: Store settings locally (no external server storage)
