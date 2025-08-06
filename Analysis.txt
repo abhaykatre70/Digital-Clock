@@ -6,3 +6,6 @@
    - Format: DD-MM-YYYY or MM/DD/YYYY (user-selectable)
 3. Support Multiple Time Zones
    - User can select and view time in different zones
+4. Customizable Appearance
+   - Light and dark mode toggle
+   - User can change font and color of the clock display
