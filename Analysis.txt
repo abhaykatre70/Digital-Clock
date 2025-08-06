@@ -1,0 +1,4 @@
+1. Display Current Time
+   - Format: HH:MM:SS
+   - 12-hour and 24-hour toggle
+   - Show AM/PM in 12-hour mode
