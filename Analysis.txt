@@ -13,3 +13,7 @@
    - Set multiple alarms with labels
    - Play sound notification when alarm triggers
    - Include snooze option (5–10 minutes)
+6. Stopwatch and Timer
+   - Start, stop, and reset stopwatch
+   - Countdown timer with time input
+   - Notify user when timer ends
